@@ -1,7 +1,7 @@
 # MaSzyna: Reloaded
 *Rebuilding the Train Simulator Experience*
 ## About us
-**MaSzyna: Reloaded** is a development organization dedicated to creating a next-generation train simulator experience built with the Godot Engine 4.3. We leverage the power of MaSzyna - Symulator pojazdów szynowych ([https://eu07.pl](https://eu07.pl)) by utilizing its assets and scenery elements, while offering a modern and customizable platform for train enthusiasts and developers.
+**MaSzyna: Reloaded** is a development organization dedicated to creating a next-generation train simulator experience built with Godot Engine. We leverage the power of MaSzyna - Symulator pojazdów szynowych ([https://eu07.pl](https://eu07.pl)) by utilizing its assets and scenery elements, while offering a modern and customizable platform for train enthusiasts and developers.
 
 ### Our tools:
 
