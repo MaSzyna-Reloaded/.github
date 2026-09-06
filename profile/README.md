@@ -22,5 +22,7 @@ We invite train enthusiasts and developers to explore our project. Whether you'r
 * **Browse our repositories:** Dive into the code behind our tools and contribute to their development.
 * **Follow us:** Stay updated on our progress and announcements.
 * **Join the discussion:** Share your ideas and feedback on our community forums or social media channels.
+* Facebook: https://www.facebook.com/maszyna.reloaded
+* Discord: https://discord.com/invite/WYcUPeQxmA
 
 We believe in the potential of MaSzyna: Reloaded to breathe new life into the train simulator genre, and we're excited to have you join the journey!
